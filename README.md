@@ -15,5 +15,5 @@ The game is played by entering "directions" to move your character, your charact
 
 The game must be ran with node. Download all of the files within the repository then follow the guides below to install node and then run "main.js" with the node command.
 
-Install node - https://nodejs.org/en/download/
+Install node - https://nodejs.org/en/download/ \
 Running files in node - https://nodejs.dev/learn/run-nodejs-scripts-from-the-command-line
